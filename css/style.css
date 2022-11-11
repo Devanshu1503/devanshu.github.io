@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #006d77;
    text-align: left;
  /*  min-width: 500px; */
 }
@@ -44,7 +44,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #14213d;
   padding: 10px 0px 10px 10px;
 }
 
@@ -83,7 +83,7 @@ object-fit: cover;
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#023047;
 }
 
 .myButton:active {
